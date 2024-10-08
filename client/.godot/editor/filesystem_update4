@@ -1,1 +1,10 @@
+res://scenes/environment.tscn
+res://scenes/world.tscn
 res://scenes/player.tscn
+res://scripts/player.gd
+res://scripts/world.gd
+res://World/world.tscn
+res://World/player.tscn
+res://Player/player.gd
+res://Player/player.tscn
+res://World/environment.tscn
