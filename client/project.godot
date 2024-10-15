@@ -17,7 +17,7 @@ config/icon="res://icon.svg"
 
 [autoload]
 
-Server="*res://World/scripts/Server.gd"
+Server="*res://server/Server.gd"
 
 [dotnet]
 
