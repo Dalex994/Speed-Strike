@@ -13,7 +13,7 @@ config_version=5
 config/name="Speed Strike Client"
 run/main_scene="res://Menus/Lobby.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
-boot_splash/bg_color=Color(0, 0.369354, 0.760616, 1)
+boot_splash/bg_color=Color(0.0583056, 0.393113, 0.403674, 1)
 config/icon="res://icon.svg"
 
 [autoload]
