@@ -1,2 +1,2 @@
-res://scenes/server.tscn
-res://scripts/server.gd
+res://server/Server.tscn
+res://server/Server.gd
