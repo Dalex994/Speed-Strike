@@ -1,5 +1,6 @@
 res://Player/player.tscn
-res://Player/player.gd
+res://server/Server.gd
 res://World/environment.tscn
 res://World/world.tscn
-res://server/Server.gd
+res://Menus/Lobby.tscn
+res://Menus/lobby.gd
